@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]([https://rishavchanda.io](https://i0.wp.com/vusci.blog/wp-content/uploads/2020/01/banner-for-article-2.jpg?fit=1588%2C610&ssl=1))
 <h1 align="center">Hi 👋, I'm YashMittal</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/7LAB1WbMURAAAAAd/website.gif">
+<img align="right" alt="Coding" width="400" src="[https://c.tenor.com/7LAB1WbMURAAAAAd/website.gif](https://camo.githubusercontent.com/580b4a0955e1d084be5b2c8605a47d0b503857ebc4bb9c5abf2b95e07c7f9b1f/68747470733a2f2f6e6f636c696e6b732e6e65742f6173736574732f696d672f736f6674776172656465762e676966)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashmittal100201&label=Profile%20views&color=0e75b6&style=flat" alt="yashmittal100201" /> </p>
 
