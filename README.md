@@ -1,7 +1,7 @@
 [![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966))]([https://rishavchanda.io])
 <h1 align="center">Hi 👋, I'm YashMittal</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://c.tenor.com/7LAB1WbMURAAAAAd/website.gif](https://camo.githubusercontent.com/580b4a0955e1d084be5b2c8605a47d0b503857ebc4bb9c5abf2b95e07c7f9b1f/68747470733a2f2f6e6f636c696e6b732e6e65742f6173736574732f696d672f736f6674776172656465762e676966)">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashmittal100201&label=Profile%20views&color=0e75b6&style=flat" alt="yashmittal100201" /> </p>
 
