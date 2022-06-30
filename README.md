@@ -1,10 +1,11 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]([https://rishavchanda.io](https://i0.wp.com/vusci.blog/wp-content/uploads/2020/01/banner-for-article-2.jpg?fit=1588%2C610&ssl=1))
 <h1 align="center">Hi 👋, I'm YashMittal</h1>
 <h3 align="center">A passionate Web developer from India</h3>
- <img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F18%2Fa4%2F94%2F18a4949fc9c8067172d3b96e302e7097.gif&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F366339750929985473%2F&tbnid=jhcsVqEFSxZJUM&vet=10CBwQxiAoA2oXChMImJu3lYHW-AIVAAAAAB0AAAAAEAc..i&docid=aFtTPCfHIf08XM&w=800&h=600&itg=1&q=animated%20coding%20gif&hl=en&ved=0CBwQxiAoA2oXChMImJu3lYHW-AIVAAAAAB0AAAAAEAc.gif" />
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/7LAB1WbMURAAAAAd/website.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashmittal100201&label=Profile%20views&color=0e75b6&style=flat" alt="yashmittal100201" /> </p>
 
-<p align="left"> <a href="https://twitter.com/yashmittal100201" target="blank"><img src="https://img.shields.io/twitter/follow/yashmittal100201?logo=twitter&style=for-the-badge" alt="yashmittal100201" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Java Spring Boot, React.js**
 
@@ -16,7 +17,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yashmittal100201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashmittal100201" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yashmittal100201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashmittal100201/" height="30" width="40" /></a>
 <a href="https://instagram.com/yashmittal100201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashmittal100201" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/yashmittal1002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yashmittal1002" height="30" width="40" /></a>
